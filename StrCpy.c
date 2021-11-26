@@ -12,3 +12,5 @@ char* StrCpy(const char* src) {
         dest[sz] = i;
     return dest;
 }
+
+// From Remote!!!!
