@@ -1,0 +1,8 @@
+*.user*
+Images
+debug
+release
+DemoImages
+.vs
+build
+.vscode
