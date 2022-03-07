@@ -1,0 +1,44 @@
+{
+		"Settings": {
+				"Window": {
+						"fullscreen": true,
+						"width": 0,
+						"height": 0
+				},
+				"Interval":300,
+				"Maximum":200
+		},
+		"Data": {        
+				"Directories": [
+						"../Image"
+				],
+				"Resources": [
+						{
+								"Type": "",
+								"Name": "",
+								"Path": ""
+						}
+				]
+		},
+		"Necessaries": [
+				""
+		],
+		"Programs": [
+				{
+						"lapse": 0,
+						"sections": [        
+								{
+										"targets": [],
+										"content": [
+											{
+												"name": "",
+												"arguments": [],
+												"time": 0
+											}
+										],
+										"time": 0
+								}
+						]
+				}
+		]
+}

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/fallback">
+        <file>Sunflower.png</file>
+        <file>Peashooter.png</file>
+        <file>Wall-nut.png</file>
+    </qresource>
+</RCC>

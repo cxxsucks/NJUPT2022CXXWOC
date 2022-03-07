@@ -1,3 +1,9 @@
-# Only Object files are ignored
+# Object files
 *.o
-*/*/*.o
+**/*.o
+# User build files
+build
+*.user
+# IDE-Generated files
+.vs
+.vscode
